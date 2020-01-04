@@ -1,94 +1,26 @@
-﻿have a thing about
-get a thing about
-go about
-stand-in
-elusive
-shabby
-lota
-home run
-root
-rush something ↔ through
-ass
-rush
-rushed
-abash
-abashedly
-brace
-bracing
-flutter
-fluttering
-portal
-portals'
-portals
-flick
-flicked
-Almond
-treat
-scowl
-spectacled
-fantasize
-obsessed
-reassurance
-would rather
-comply
-intranet
-pompous
-pompously
-nick
-forced
-along
-far off
-smack
-still
-grope
-clutch
-air
-daydream
-prompt
-evict
-inconspicuous
-complex
-hallway
-grip
-sponsor
-continue
-spit
-exert
-moody
-impulsive
-at the end of the day
-mistake
-disorient
-lose one's nerve
-dismissal
-what the hell
-blazer
-require
-request
-household name
-top off
-different
-posture
-gesture
-fairy
-fairies
-purse
-upon
-on
-slider
-cap off
-drop off
-hit on
-squeaky
-cuticle
-straw
-pine away
-treasury
-the treasury
-cadet
-stinky
-stink
-maniac
-toon
-dire
-voir dire
+﻿go about 3
+brace 5
+flutter 5
+portal 5
+scowl 5
+reassurance 4
+nick 5
+smack 3
+prompt 5
+grip 5
+impulsive 2
+lose one's nerve 1
+blazer 5
+top off 2
+posture 5
+gesture 5
+purse 4
+slider 3
+cap off 2
+drop off 2
+squeaky 3
+cuticle 3
+pine away 5
+the treasury 3
+tread 3
+swatch 2
