@@ -1,3 +1,4 @@
+1.4
 verspäten 1
 morgens 3
 morgen 2
@@ -26,3 +27,24 @@ sich vorstellen 3
 abholen 2
 leise 3
 eintreten (tread) 1
+
+1.5
+gerade (just)
+ruhig
+einzel
+Unterschrift
+Treppe
+geradeaus
+Fahrstuhl
+wählen
+rühren
+Speise
+schemecken
+Bohne
+trocken
+ausgezeichnet
+mischen
+Ich bin am ... geboren.
+Mitte
+Ecke
+speisen
