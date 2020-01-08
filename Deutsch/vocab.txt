@@ -29,22 +29,68 @@ leise 3
 eintreten (tread) 1
 
 1.5
-gerade (just)
-ruhig
-einzel
-Unterschrift
-Treppe
-geradeaus
-Fahrstuhl
-wählen
-rühren
-Speise
-schemecken
-Bohne
-trocken
-ausgezeichnet
-mischen
-Ich bin am ... geboren.
-Mitte
-Ecke
-speisen
+gerade (just) 1
+ruhig 1
+einzel 2
+Unterschrift 3
+Treppe 1
+geradeaus 5
+Fahrstuhl 3
+wählen 3
+rühren 1
+Speise 1
+schmecken 1
+Bohne 1
+trocken 1
+ausgezeichnet 1
+mischen 1
+Ich bin am ... geboren. 1
+Mitte 3
+Ecke 1
+
+1.7
+nebenan
+gegenüber
+rund
+Fahrkarte
+Rundfahrt
+bestellen
+auf welchen Namen
+entfernen
+acht Minuten entfernt
+selbstverständlich
+Vormittag
+Nachmittag
+früh
+
+1.8
+begleiten
+Fahrgast
+Quadrat-
+Einwohner
+Bezirk
+vornehm
+Tor
+klassizistisch
+Baustil
+Quadriga
+Wahrzeichen
+entlang
+berühmt
+Standbild
+um wieviel Uhr
+wie spät
+wieviel Uhr
+Meisterwerk
+Palais
+herrlich
+genug
+müde
+Punkt (punctually, on the dot)
+Nuss
+übrigens
+übrig
+empfehlen
+köstlich
+Viertel nach/vor eins
+ 
