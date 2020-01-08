@@ -1,25 +1,44 @@
+1.5
+go about 3
+brace 5
+flutter 5
+portal 5
+scowl 5
+reassurance 4
+nick 5
+smack 3 (schmecken)
+prompt 5
+grip 5
+impulsive 2
+lose one's nerve 1
+blazer 5
+top off 2
+posture 5
+gesture 5
+purse 4
+slider 3
+cap off 2
+drop off 2
+squeaky 3
+cuticle 3
+pine away 5
+the treasury 3
+tread 3
+swatch 2
+
+1.8
 plankton 2
 grizzly bear 2
-poll 1
-parting 2
-deteriorate 1
+poll 2
+put about 1
 monsoon 2
-that's (about) it 3
-whip 1
-derail 2
-savor 1
-barren 1
-put around 1
-con 2
+savor 2
+con 3
 swipe 1
-trip 2
-reminisce 2
-berate 1
-disciple 1
+reminisce 3
+berate 2
 felt-tip 2
 grace 2
-understatement 2
-empathy 2
 
 
 unorthodox 4
@@ -34,23 +53,23 @@ calf 2
 vent 2
 get over with 2
 
-torso
-brim
-squirm
-pop quiz
-tick off
-hideous
-balsa
-plywood
-synch
-back off
-reproachfulness
-out of the blue
+1.8
+brim 1
+squirm 1
+pop quiz 1
+tick off 1
+hideous 1
+balsa 1
+synch 5
+back off 3
+reproach 3
+out of the blue 4
 Rondo 2
-get the hang of
-petrify
-shroud
+get the hang of 4
+petrify 3
+shroud 5
 ovation 1
+
 pick at
 transfix
 unsettle
