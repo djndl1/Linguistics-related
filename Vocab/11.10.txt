@@ -1,0 +1,206 @@
+﻿workout
+parallelism
+checkpoint
+hip
+mind you
+tset
+test
+pool
+aliasing
+variability
+variety
+variable
+s2 =
+clutter
+ad hominem
+ad-hominem
+helm
+postage
+http://cs.nyu.edu/~fergus/drafts/utexas2.pdf
+x86-64 arch
+localize
+DO favor automatically implemented properties over fields. DO favor automatically implemented properties over using fully expanded ones if there is no additional implementation logic
+go figure
+the
+anneal
+form
+https://www.codeproject.com/Articles/45788/The-Real-Protected-Long-mode-assembly-tutorial-for
+bank
+baseline
+https://github.com/machrisaa/tensorflow-vgg
+aggregate
+aggregation
+margin
+cppreference
+definitive
+dearth
+out of touch
+my
+splish
+calleo
+presage
+keep
+keeps
+far cry
+wallow
+Types may be defined without any associated values. An empty enum can be defined which is an enum not defining any values. The empty enum’s type name may thereupon be used as a legitimate type in, e.g. a catch clause
+https://stackoverflow.com/questions/11016220/what-are-inline-namespaces-for
+char
+i'm good
+bool is_little_endian() { std::uint16_t x=0x0001; auto p = reinterpret_cast<std::uint8_t*>(&x); return *p != 0
+footgun
+nu
+that said
+https://dev.qgroundcontrol.com/en/getting_started
+emplace
+functiojn
+inline
+percolate
+pit
+pitted
+rejoinder
+https://github.com/plytophogy/bashful.git
+istreambuf_iterator<char>istreambuf_iterator<char>ostreambuf_iterator<char>in(cin.rdbuf()); eof; out(cout.rdbuf()); copy(in, eof, out
+formed
+splay
+creating a pipe, forking a child, closing the unused ends of the pipe, executing a shell to run the command, and waiting for the command to terminate
+Inehrit
+skimp
+SPOOL
+tar pit
+circularl
+slding
+hoard
+addition, subrtaction
+in-place
+int i
+sm->d_available++
+printf("Semaphore %zu count %d\n", sm->id, sm->d_available
+size
+mtx_unlock(&sms->pool_mtx
+notify producer if there is no resource
+available
+wrong
+remaining
+producing one
+filled
+thrd_join(consume_thrd1, NULL
+dura
+rsource
+spurious
+`std::cv_status`
+polling
+C++ defines the generic `std::lock` and `std::try_lock` functions that can be used to help prevent deadlocks
+In
+regard
+remove
+shuffle
+ellect
+In other words
+discipline
+record
+void setFirst(? super Manager) ? super Manager getFirst
+Collect
+error
+squelch
+Java
+flaky
+circulatory
+visionary
+Does s
+scrap
+stati
+monad
+squash
+subterfuge
+syllogism
+quantification
+arity
+ary
+pore over
+as
+since
+try
+conor
+argument
+discerning
+epiphany
+exasperate
+back out
+underpin
+giornata
+stasera
+simpatico
+holiday
+vacanza
+lirica
+high school
+liceo
+stimolante
+vivace
+biondo
+moglie
+sposare
+sposato
+commercialista
+signoria
+segretario
+uomo d'affari
+albergo
+albergatore
+avvocatessa
+commesso
+sacerdotessa
+studentessa
+Paesi Bassi
+olandese
+Olanda
+Giappone
+neozelandese
+Nuova Zelanda
+canadese
+scozzese
+Scozia
+gallese
+Galles
+Wales
+irlandese
+Irlanda
+inglese
+Inghilterra
+Svizzera
+Gran Bretagna
+Brasile
+austriaco
+terse
+inbred
+campuses
+sportivo
+scala
+ingegnere
+contraposition
+contrapositive
+grandorder
+grand order
+ordinal scale
+qualitative
+dundee daemon
+optimality criterion
+unapologetic
+unapologetically
+locomote
+relentless
+concave
+vault
+convex
+accretion
+zeal
+hans
+cull
+culling
+mundane
+aleatory
+philistine
+ascetic
+asceticism
+Transcendental

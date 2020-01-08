@@ -1,0 +1,945 @@
+spesso 4
+enclave 4
+ospitare 2
+perimetro 5
+dominio (domain) 3 
+antonomasia 2
+bacino 2
+successivo 3
+diritto 3
+civiltà 2
+scavo 2
+risalire a 3
+sebbene 2
+inoltre 2
+esteso 3
+disciplinare 2
+denominare 2
+ordinamento 2
+dotare 2
+omonimo 2
+nonché 2
+fauna 2
+età 2
+pp
+cartografia 3
+confinante 2
+frazione 3
+idrografo 3
+ansa 2
+quale 2
+guado 2
+abitato 3
+riva 2
+fronteggiare 2
+sviluppare 2
+sorgere 2
+cupola 3
+oltre 2
+orografia 3
+nucleo 2
+sabbia 2
+
+affluente 2
+pianeggiare 2
+ambientale 5
+paesaggio 2
+pertanto 2
+rilievo 3 
+deposito 4
+ovest 2
+attuale 2
+est 2
+sud 2
+nord 2
+spento 1
+ormai 2
+prodotto 2
+compenetrazione 1
+corona 3
+unicum 2
+campagna 2
+rappresentare 2
+elevato 2
+appartenente 4
+inglobare 2
+fuori da 1
+imponente 3
+godere 2
+appartenere 4
+ossia 1
+fascia 2
+mantenere 1
+regime 3
+stagione 5
+piuttosto 1
+eccesso 2
+benché 2
+piovoso 3
+gradevole 2
+netto 3
+soffrire 2
+scampolo 2
+ondata 2
+distare 5
+litorale 2
+grossomodo 2
+inibire 2
+pomeriggio 2
+alleviare 2
+disagio 3
+agio 2
+raggiungere 3
+
+registrare 2
+rispetto a 2
+
+versante 1
+connubio 4
+tasso 3
+fenomeno 4
+temporalesco 2
+protrarre 2
+alternare 2
+asciutto 2
+picco 2
+annuo 2
+aggirare 2
+intorno 2
+verificare 2
+rilevanza 1
+tramandare 2
+
+tuttavia 3
+ipotesi 4
+formulare 2
+acquedotto 4
+rapporto 2
+agevolare 2
+soggiogare 2
+invece 3
+
+provvedimento (measure, step)
+instaurare 2
+contraddistinguere 2
+diventare 2
+alleare 2
+Sardegna 2
+metà 3
+conoscere 2
+confermare 2
+cioè 2
+infatti 3
+Egitto 3
+spaziare 3
+congiura 2
+confine 2
+corrompere 2
+governare 2
+gestire 2
+spostare 2
+affidare 2
+svoltare 1
+in seguito 2
+editto 2
+impegnare 2
+consegnare 2
+fondare 2
+anfiteatro 5
+divulgare 1
+diffusione 1
+predicare 1
+termine 2
+principato 1
+crisi 1
+oltre a 1
+grazie a 1
+ricoprire 1
+ruolo 1
+saccheggiare 1
+impreziosire 3
+subire 1
+attaccare 1
+deposizione 1
+
+dettaglio 2
+segnare 1
+soprattutto 1
+chiesa 2
+affermazione (success, achievement) 1
+sostituirsi a 1
+gettare 2
+ambito 1
+cittadino 2
+attraverso 2
+governo 2
+attestare 2
+circostante 2
+sconfiggere 1
+conquistare 2
+sancire 1
+nascita 1
+Natale 1
+incoronare 1
+fungere 1
+teocratico 1
+scontrino 1
+colazione 1
+cassiere 1
+accomodare 1
+insegnante  1
+raffreddore 1
+augurio 1
+salute 1
+strada 1
+a presto 1
+e così via 1
+personaggio 1
+
+veduta
+incursione 1
+saraceno 1
+incirca 1
+consolare
+insediare
+rivale 1
+autonomia 1
+difesa 1
+compreso 1
+allacciare 1
+vicinanza 1
+pontefice 1
+era 2
+evento 1
+frenare 1
+pellegrino 1
+ritirare 1
+reciproco 1 
+involuzione 1
+appena 1
+mutamento 1
+fede 1
+diverso da 1
+concepire 1
+fulcro 1
+avviare 1
+smettere 1
+politica 1
+influire 1
+figura
+maniera 1
+sostanziale
+rinnovamento 1
+dimora 1
+sia 1
+artefice 1
+architettonico 1
+emblema 1
+
+entrare 1 
+interrompere 1
+sconvolgere 1
+incaricare 1
+nonostante 1
+ostare 1
+tornare 1
+ripristinare 1
+erede 1
+in particular modo 1
+discorso 1
+restaurazione
+risorgimento 
+esercito
+suggellare
+pressione
+nei confronti di
+ripetutamente
+vano
+tentativo
+annettere
+rimanere
+caduta
+invariato
+breccia
+dichiarare
+prigioniero
+tramite
+prerogativa
+fermento 1
+edilizio 1
+racchiudere 1
+danno 1
+banca
+quartiere 1
+afflusso 1
+mezzo 1
+scandalo 1
+mondiale 1
+incertezza 1
+ascesa 1
+favorire 3
+drastico 3
+attuare 1
+abbattere 1
+rinascimento 1
+apertura 1
+isolamento 1
+borgata 1
+esposizione 1
+scoppio 1
+giardino 1
+proprietà 1
+televisivo
+viale
+ambedue
+fiction
+cucina (cooking)
+ricetta
+ortaggio
+maturare
+saporito
+avanzo
+frattaglia
+strutto
+lardo
+guanciale (lardo)
+ventresca
+grasso
+prosciutto
+piatto
+abbacchio
+forno
+vaccinara
+coratella
+rigatoni
+bue
+trippa
+cacio
+pepe
+
+firma 1
+finché 1
+coinvolgere 1
+andamento 1
+sfavorevole 1
+oggetto 1
+bombardamento 1
+armistizio 1
+presso 1
+ebreo 1
+eccidio 1
+poi 1
+turistico 1
+affermato 1
+divertimento 1
+raccontare 1
+a partire da 1
+ritrovare 1
+locale 1
+allora 1
+realizzare 1
+raccordo 1
+anulare 1
+periferico 1
+impianto 1
+firmare 1
+trattato 1
+svolgere 1
+stemma 1
+contenere 4
+statuto 1
+scudo 1
+appuntare 1
+croce 2
+oro 3
+porpora 3
+maiuscola 1
+banda 4
+scalinata 1
+cimare 1
+fondamento 1
+fiorone 3
+gemello 1
+riconoscere 3
+meraviglia 2
+simboleggiare 1
+medioevo 4
+supremazia 4
+bronzeo 1
+raffigurare 1
+allattare 1
+dapprima 1
+influsso 1
+fase 1
+epoca 1
+ufficialità 4
+meridionale 1
+idioma 3
+rendere (rese) 4
+crescita 1
+conseguenza 3
+teatrale 1
+
+riallacciare 2
+contare 1
+risorgere 1
+altezza 3
+bellezza 1
+sollevare 1
+
+risultato 3
+sovprapporre 1
+continuo 3
+in rapporto a 1
+testimonianza 3
+suggestivo 1
+sviluppo 1
+tessere 3
+ammodernare 4
+patrimonio 1
+arco 1
+intero 1
+ovvero 1
+raduno 1
+fedele 1
+cultuale 2
+ritenere 3
+centinaio 2
+intrecciare 1
+cattedrale 4
+compiere 4
+confessione 3
+ortodosso 4
+moschea 3
+completare 1
+sessantina 4
+catacomba 1
+cimitero 4
+sotterraneo 4
+mausoleo 4
+tomba 2
+monumentalità 4
+sepolcro 2
+ipogeo 1
+necropoli 1
+piramide 3
+egiziano 1
+sul modello di 3
+consistere 2
+accompagnare 1
+palazzo 4
+signorile 1
+lussuoso 2
+molteplice 3
+nobiliare 3
+esercitare
+rappresentanza 2
+adibire 2
+sede 2
+organo 1
+madama 4
+corte 2
+spicco 1
+plurisecolare 3
+muratura 1
+ludico 3
+capace 1
+degno di nota 3
+lunghezza 1
+complessivo 1
+misurare 1
+accrescere 3
+esigente 3
+esigenza 1
+idrico 1
+resto 1
+terme 1
+ritrovo 1
+scavalcare 1
+trentina 1
+annoverare 1
+rilevante 1
+circuito 1
+immagine 1
+torre 1
+rovina 1
+spadroneggiare 1
+trincerare 1
+anello 1
+in termini di 1
+pendolare 1
+cifra 1
+dettaglio 1
+
+tendere a fare 1
+testimoniare 1
+capacità 1
+armonioso 1
+esaltare 1
+concezione 1
+soprannaturale 4
+celebre 1
+vi = ibi, ci = hic, ne = inde 3
+collegare
+obelisco 
+genere 2
+equestre
+consesso
+in grado 2
+scopo 1
+pungente 1
+malumore 1
+
+a cielo aperto 1
+reperto 1
+culla 1
+da... verso... 2
+uccidere 1
+parco 1
+santuario 1
+insieme 1
+ettaro 1
+segnalare 1
+habitat 1
+vegetale 1
+terrestre 1
+secca 1
+ampliare 1
+notevole 1
+oasi 1
+gestire 1
+foce 1
+riserva 4
+ricadere 1
+collinare 3
+differenziare 2
+ente 1
+
+migliaio 2
+specie 3
+vertebrato 1
+tipico 1
+approssimativo 1
+restante 1
+randagio 1
+raggruppare 1
+almeno 2
+felino 1
+esemplare 1
+volatile
+colonizzare 1
+in seguito 3
+infine 1
+entrambi
+deiezione 1
+riparo 1
+prevedere 1
+indicare 1
+prendere cura 1
+principalmente 1
+addirittura 1
+
+censire 1
+legare 1
+dovere 1
+mentalità 1
+giuridico 1
+autonomo 1
+adito 1
+arcaico 1
+racconto 1
+meta 1
+cattolicesimo 1
+vescovo 1
+uso (custom) 2
+attualmente 4
+battezzare 3
+risultare 1
+vescovile 1
+località 1
+folto 1
+folclore 4
+festeggiamento 1
+romanesco 2
+ripristinare 1
+seppure 1
+divertimento 2
+ballo 4
+mascherata 3
+maschera 3
+sfera 3
+festeggiare 3
+sindacato 3
+assistere (spectate) 2
+ricorrenza 3
+in occasione Di (on the occasion of) 1
+parata 5
+Raccogliere 1
+materiale 4
+frammento 5
+rintracciare 1
+pittoresco 2
+rione 3
+stretto 3
+vicolo 2
+trattoria 2
+acquerello 3
+assicurazione 1
+azienda 1
+pubblicità 1
+collegio 1
+stipulazione 1
+ospedale 1
+policlinico 1
+indagine 1
+ciononostante 2
+debolezza 1
+traffico 1
+inquinamento 1
+utilizzo 1
+massiccio 1
+affissione 1
+cartellone 1
+pubblicitario 1
+graffito 1
+anziano 1
+talvolta 1
+riguardare 1
+decoro 2
+soddisfazione 1
+formazione 2
+impianto
+sportivo
+penalizzare
+trasporto
+ottimale
+reato
+pizzare
+dietro 1
+criticità 1
+furto 1
+appartamento 5
+scippo
+rapina 1
+schizzare 1
+omicidio 1
+testa 1
+degrado 1
+per conto di 1
+sicurezza 1
+legalità 1
+maggioranza 1
+intervistare 1
+notare 1
+
+
+possedere 1
+disporre di 1
+sino 1
+numeroso 2
+via (passando per) 3
+ricerca 1
+effettuare 1
+catalogo 1
+ateneo 1
+iscrivere 1
+universitario 4
+statale 1
+comparire 1
+problematica 1
+connesso 1
+consiglio 2
+compito 1
+promuovere 1
+diffondere 1
+trasferire 1
+valorizzare 1
+conoscenza 1
+infanzia 1
+verosimilmente 1
+affidare 1
+rinascimentale 1
+offerta 2
+stampa 3
+riguardo a 1
+pubblico (audience) 3
+emittente 1
+sede avere 1
+studio (studio) 3
+annuncio 2
+spostare 1
+denominazione 1
+per questo 3
+tuttavia 3
+ritratto 2
+antenato 4
+ricchezza 1
+spoliazione 1
+nemico 1
+definitivo 1
+ellenico 1
+tesoro 1
+principio 3
+fitto 1
+schema 2
+costruttivo 2
+collegare 1
+ad esempio 3
+filone 1
+proprio 1
+aspetto (appearance) 3
+arricchire 1
+musivo 3
+decadenza 1 (la decadenza dell'Impero Romano)
+discesa 1
+paragonabile 1
+volto 1
+scisma 1
+esponente 1
+vicenda 2
+adeguare 2
+reddito 1
+miliardo 1
+insediamento 1
+scegliere 1
+insieme a (along) with 1
+decina 1
+carattere 1
+fisico 4
+strada (percorso, tragitto) 2
+ricalcare 1
+viabilità 1
+ferrovia
+mediante
+livello
+mentre (invece)
+quasi
+passeggero
+merce
+tonnellata
+collegamento
+tramite
+riconoscimento
+situare
+costo
+pista
+ristrutturare
+comporsi
+autobus
+tranvia
+extraurbano
+gemellaggio
+ambasciata
+consolato
+onorario
+palestra
+scoprire
+elencare
+gareggiare
+partenza
+calcio
+campionato
+leggera
+nuoto
+tappa
+casalinga
+partita
+
+vacanza 1
+simpatico 1
+stasera 1
+giornata 1
+
+letterario 4
+farsa 4
+mimo 4
+edile 1
+vantare 1
+sopracitato 4
+attuare 1
+prosa 1
+rivitalizzare 1
+buio 1
+cosiddetto 1
+primo piano 1
+censura 1
+girare (shoot films) 1
+regista (director) 1
+altrove 1
+cineasta 1
+sceneggiatore 2
+sceneggiare 1
+anonima 1
+capace (atto a contenere) 1
+attirare (far venire) 2
+palcoscenico 1
+premiare 1
+fiera 1
+fumetto 1
+semestrale 1
+prevedere 1
+spettacolo 2
+manifestare 1
+ceto 1
+filastrocca 1
+ricoprire (un ruolo) 1
+battaglia 1
+riscontrare 1
+archetipo 1
+soggiornare 1
+polifonia 1
+interprete 1
+esibire 1
+gestionale 1
+competenza 1
+articolare (break down) 1
+accorpare 1
+circoscrivere 1
+impresa 1
+alimentare 1
+polo (fig. center, hub) 1
+
+
+burro
+fiammifero
+farina
+nuoto
+cappotto
+scarpa
+cellulare
+zio
+albergo
+ingegnere
+patata
+cipolla
+carota
+rivista
+cartolina
+maglietta
+calzino
+calza
+guanto
+albero
+viaggio
+sorpresa
+vecchio
+comunque
+pesare - pesante
+stanco
+zaino
+stretto
+squadra
+carino
+alzare
+tipo
+tifare
+soldo
+programma(piano)
+portafoglio
+agenda
+indirizzo
+parecchio
+minestra
+guai
+
+
+aus'triaco 1
+Brasile 2
+Gran Bretagna 1
+Svizzera 1
+Inghilterra 1
+Irlanda 1
+irlandese 1
+Galles 1
+gallese 1
+Scozia 1
+scozzese 1
+canadese 1
+Nuova Zelanda 1
+neozelandese 1
+Giappone 1
+Olanda 2
+olandese 1
+Paesi Bassi 1
+studentessa 1
+commesso 1
+avvocatessa 1
+albergatore 1
+uomo d'affari 1
+segretario 1
+signoria 1
+commercialista 1
+sposato 1
+moglie 1
+biondo 1
+vivace 1
+stimolante 1
+liceo 1
+la musica lirica (opera) 1
+cattedrale 1
+galle'ria 2
+fondo 2
+passeggiata 1
+pano'rama 3
+farmacia 2
+albergo 1
+sulla sinistra 4
+valuta 1
+subito 1
+qui vicino 2
+passante 1
+dov'è (note the accent) 1
+provare 1
+accanto a 1
+prima di 1
+di fronte a 1
+a piedi
+in macchina 1
+ambasciatore 1
+davanti a 1
+in primo piano (in close-up) 1
+andata 2
+ritorno 3
+più o meno 1
+verso (towards + time) 2
+ci mettere 3
+proprio (just, exactly) 1
+sembrare 1
+scendere 1
+fermata 1
+duomo
+informarsi
+occorrere
+giornalaio
+macchinetta
+badare
+senza badare a
+qualche volta (sometimes)
+multa
+parcheggio
+sul posto (on the spot)
+qualsiasi
+tabaccaio
+acquistare
+di solito
+da (apud)
+pagare
+prezzo
+vendita
+cartello
+salire/scendere
+percorso
+blocchetto
+che (nelle comparative)
+obliterare (punch tickets)
+in vigore (in force)
+divertire
+volo
+esattamente
+uscita
+personale (staff, personnel)
+preciso (definite, speficif)
+controllo (check, verfication)
+esame (examination)
+in genere
+bagaglio (baggage)
