@@ -1,29 +1,16 @@
-1.5
+1.11
 go about 3
-brace 5
-flutter 5
-portal 5
-scowl 5
-reassurance 4
-nick 5
-smack 3 (schmecken)
-prompt 5
-grip 5
-impulsive 2
-lose one's nerve 1
-blazer 5
-top off 2
-posture 5
-gesture 5
-purse 4
-slider 3
-cap off 2
+reassurance 5
+smack 4 (schmecken)
+impulsive 3
+lose one's nerve 2
+top off 3
+purse 5
+cap 2
 drop off 2
-squeaky 3
-cuticle 3
-pine away 5
-the treasury 3
-tread 3
+squeaky 4
+cuticle 4
+tread 4
 swatch 2
 
 1.8
@@ -53,43 +40,36 @@ calf 2
 vent 2
 get over with 2
 
-1.8
-brim 1
+1.11
+brim 2
 squirm 1
-pop quiz 1
-tick off 1
-hideous 1
-balsa 1
-synch 5
-back off 3
-reproach 3
-out of the blue 4
-Rondo 2
-get the hang of 4
-petrify 3
-shroud 5
-ovation 1
+pop quiz 2
+hideous 2
+back off 4
+reproach 4
+out of the blue 5
+Rondo 3
+get the hang of 5
+petrify 4
+ovation 2
 
-pick at
-transfix
-unsettle
-crummy
-fright
-offside
-midfielder
-near
-connive
-lynch
-gremlin
-commodity
-normalcy
-endorphin
-spice up
-spew out
-fret
-onlooker
+1.11
+pick at 1
+transfix 1
+unsettle 1
+crummy 1
+connive 1
+lynch 1
+gremlin 1
+commodity 3
+normalcy 2
+spice up 1
+spew 1
+fret 1
+onlooker 1
 advert 1
-wry
+wry 3
+
 rehash
 captivate 1
 in name 2
@@ -157,3 +137,10 @@ crestfallen
 tyrannical
 bemuse
 regress
+
+
+balsa
+tick off 1
+midfielder 1
+offside
+endorphin
