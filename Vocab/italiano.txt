@@ -1,22 +1,20 @@
-spesso 4
-enclave 4
-ospitare 2
-perimetro 5
+1.11
+ospitare 3
 dominio (domain) 3 
-antonomasia 2
-bacino 2
-successivo 3
+bacino 3
+successivo 4
 diritto 3
 civiltà 2
-scavo 2
-risalire a 3
-sebbene 2
-inoltre 2
-esteso 3
+scavo 3
+sebbene 3
+inoltre 3
+esteso 4
 disciplinare 2
-denominare 2
+denominare 3
 ordinamento 2
 dotare 2
+
+
 omonimo 2
 nonché 2
 fauna 2
@@ -943,3 +941,6 @@ controllo (check, verfication)
 esame (examination)
 in genere
 bagaglio (baggage)
+
+antonomasia 2
+risalire a 3
