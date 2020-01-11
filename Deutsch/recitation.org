@@ -1,3 +1,15 @@
+# Turn off default internal styles
+#+OPTIONS: html-style:nil html5-fancy:t
+
+# Exporting to HTML5
+#+HTML_DOCTYPE: html5
+#+HTML_HEAD: <meta http-equiv="X-UA-Compatible" content="IE=edge">
+#+HTML_HEAD: <meta name="viewport" content="width=device-width, initial-scale=1">
+
+# Add notes.css here
+#+HTML_HEAD: <link href="http://taopeng.me/org-notes-style/css/notes.css" rel="stylesheet" type="text/css" />
+
+
 * Basic German
 
 ** Unit 3
@@ -52,9 +64,11 @@ Names of most metals tend to be neuter.
 
 ** Unit 9
 
-The great majority of masculine nouns form their plural by adding -e, sometimes with an umlaut. Nouns ending in -er, -el or -en have nochange or sometimes with an umlaut.
+The great majority of masculine nouns form their plural by adding -e,
+ sometimes with an umlaut. Nouns ending in -er, -el or -en have no change or sometimes with an umlaut.
 
-The huge majority (90%) of feminine nouns add -n or -en. A number of commonly used feminine nouns add umlaut + -e.
+The huge majority (90%) of feminine nouns add -n or -en. 
+A number of commonly used feminine nouns add umlaut + -e.
 
 Most neuter nouns add -e but no umlaut. Another common ending is -er with an umlaut.
 
@@ -66,14 +80,54 @@ For dative case, plural endings are -en added to the modifier and -en or -n adde
 
 ** Unit 14
 
-For genetive, masculine and neuter nouns add -es to most short nouns, and usually -s to nouns with two or more syllables.
+For genitive, masculine and neuter nouns add -es to most short nouns, and usually -s to nouns with two or more syllables.
 
 trotz, während, wegen, (an)statt
 
 ** Unit 15
 
-er - ihn - ihm
-sie - sie - ihr
-es - es - ihm
-sie/Sie - sie/Sie - ihnen
-ihr - euch - euch
+- er - ihn - ihm
+
+- sie - sie - ihr
+
+- es - es - ihm
+
+- sie/Sie - sie/Sie - ihnen
+
+- ihr - euch - euch
+
+** Unit 17
+
+amüsieren, anziehen, ausziehen, beeilen, duschen, entscheiden, entschuldigen, kämmen, rasieren, schminken, treffen, umziehen, waschen
+
+- Ich ziehe mich an; Ich ziehe mir eine Jacke an.
+
+** Unit 18
+
+nicht: in the present tense usually follows the finite verb. It may be preceded by an expression of time. 
+
+** Unix 19
+
++ alt - älter
+
++ arm - ärmer
+
++ jung - jünger
+
++ groß - größer
+
++ kalt - kälter - kältest
+
++ kurz - kürzer - kürzest
+
++ lang - länger
+
++ stark - stärker
+
++ warm - wärmer
+
++ hoch - höher - höchsten
+
++ gern - lieber - am liebsten
+
+am + superlative is used as the adverb form of the corresponding superlative adjective

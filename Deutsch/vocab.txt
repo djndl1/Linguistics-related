@@ -1,32 +1,31 @@
 1.4
-verspäten 1
-morgens 3
-morgen 2
+verspäten 2
+morgens 4
+morgen 4
 reden 2
-heftig 3
-Schreibwaren 3
-Stadtplan 1
-geschäft 1
-Oper 1
-Post 2
-Jugendherberge 2
+heftig 5
+Schreibwaren 4
+Stadtplan 2
+geschäft 2
+Oper 2
+Post 3
+Jugendherberge 3
 Saal 2
 Rathaus 3
-Zelle (cell) 3
+Zelle (cell) 4
 Dom 3
-Freibad 2
-Hallenbad 3
-aufräumen 3
-abwaschen 3
-stattfinden 3
-nachkommen 2
-ein/um/aus+steigen
-saubermachen 3
-vorbereiten 3
-sich vorstellen 3
-abholen 2
-leise 3
-eintreten (tread) 1
+Freibad 3
+Hallenbad 4
+aufräumen 4
+abwaschen 4
+nachkommen 3
+ein/um/aus+steigen 3
+saubermachen 4
+vorbereiten 4
+vorstellen 4
+abholen 3
+leise 4
+eintreten (tread) 2
 
 1.5
 gerade (just) 1
@@ -49,35 +48,36 @@ Mitte 3
 Ecke 1
 
 1.7
-nebenan
-gegenüber
-rund
-Fahrkarte
-Rundfahrt
-bestellen
-auf welchen Namen
-entfernen
-acht Minuten entfernt
+nebenan 1
+gegenüber 1
+rund 1
+Fahrkarte 1
+Rundfahrt 1
+bestellen 1
+auf welchen Namen 1
+entfernen 1
+acht Minuten entfernt 2
 selbstverständlich
-Vormittag
-Nachmittag
-früh
+Vormittag 3
+Nachmittag 3
+früh 4
 
 1.8
-begleiten
-Fahrgast
-Quadrat-
-Einwohner
-Bezirk
-vornehm
-Tor
-klassizistisch
-Baustil
-Quadriga
-Wahrzeichen
-entlang
-berühmt
-Standbild
+begleiten 1
+Fahrgast 1
+Quadrat 1
+Einwohner 3
+Bezirk 1
+vornehm 1
+Tor 1
+klassizistisch 1
+Baustil 1
+Quadriga 1
+Wahrzeichen 1
+entlang 1
+berühmt 1
+Standbild 1
+
 um wieviel Uhr
 wie spät
 wieviel Uhr
@@ -94,3 +94,7 @@ empfehlen
 köstlich
 Viertel nach/vor eins
  
+nicht wahr
+nachher
+wie wär's mit ...
+anstrengend
