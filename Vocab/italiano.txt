@@ -14,49 +14,40 @@ denominare 3
 ordinamento 2
 dotare 2
 
-
-omonimo 2
+1.12
 nonché 2
 fauna 2
-età 2
-pp
-cartografia 3
-confinante 2
-frazione 3
-idrografo 3
-ansa 2
+età 3
+confinante 3
+frazione 4 ansa 2
 quale 2
 guado 2
-abitato 3
-riva 2
-fronteggiare 2
+riva 3
+fronteggiare 3
 sviluppare 2
 sorgere 2
-cupola 3
+cupola 4
 oltre 2
-orografia 3
-nucleo 2
-sabbia 2
+nucleo 3
 
-affluente 2
+1.13
+sabbia 2
 pianeggiare 2
-ambientale 5
 paesaggio 2
 pertanto 2
-rilievo 3 
 deposito 4
-ovest 2
-attuale 2
-est 2
-sud 2
-nord 2
-spento 1
+attuale 4
+est 3
+ovest 3
+sud 3
+nord 3
 ormai 2
-prodotto 2
-compenetrazione 1
-corona 3
-unicum 2
-campagna 2
+compenetrazione 2
+corona (ring) 3
+unicum 3
+campagna 3
+
+
 rappresentare 2
 elevato 2
 appartenente 4
@@ -944,3 +935,10 @@ bagaglio (baggage)
 
 antonomasia 2
 risalire a 3
+orografia 3
+abitato 3
+cartografia 3
+omonimo 2
+idrografo 3
+rilievo 3 
+spento 1
