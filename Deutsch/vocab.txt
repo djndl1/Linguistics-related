@@ -1,4 +1,4 @@
-1.4
+1.11
 verspäten 2
 morgens 4
 morgen 4
@@ -27,27 +27,26 @@ abholen 3
 leise 4
 eintreten (tread) 2
 
-1.5
-gerade (just) 1
-ruhig 1
-einzel 2
-Unterschrift 3
-Treppe 1
-geradeaus 5
+1.13
+gerade (just) 2
+ruhig 2
+einzel 3
+Unterschrift 4
+Treppe 2
 Fahrstuhl 3
-wählen 3
-rühren 1
-Speise 1
-schmecken 1
-Bohne 1
-trocken 1
-ausgezeichnet 1
-mischen 1
-Ich bin am ... geboren. 1
-Mitte 3
-Ecke 1
+wählen 4
+rühren 2
+Speise 2
+schmecken 2
+Bohne 2
+trocken 2
+ausgezeichnet 2
+mischen 2
+Ich bin am ... geboren. 2
+Mitte 4
+Ecke 2
 
-1.7
+1.10
 nebenan 1
 gegenüber 1
 rund 1
@@ -62,7 +61,7 @@ Vormittag 3
 Nachmittag 3
 früh 4
 
-1.8
+1.11
 begleiten 1
 Fahrgast 1
 Quadrat 1
@@ -78,23 +77,25 @@ entlang 1
 berühmt 1
 Standbild 1
 
-um wieviel Uhr
-wie spät
-wieviel Uhr
-Meisterwerk
-Palais
-herrlich
-genug
-müde
-Punkt (punctually, on the dot)
-Nuss
-übrigens
-übrig
-empfehlen
-köstlich
-Viertel nach/vor eins
+1.12
+um wieviel Uhr 1
+wie spät 1
+wieviel Uhr 1
+Meisterwerk 1
+Palais 1
+herrlich 1
+genug 1
+müde 1
+Punkt (punctually, on the dot) 1
+Nuss 1
+übrigens 1
+übrig 1
+empfehlen 1
+köstlich 1
+Viertel nach/vor eins 2
  
 nicht wahr
 nachher
 wie wär's mit ...
 anstrengend
+treiben (Sport)

@@ -106,7 +106,7 @@ amüsieren, anziehen, ausziehen, beeilen, duschen, entscheiden, entschuldigen, k
 
 nicht: in the present tense usually follows the finite verb. It may be preceded by an expression of time. 
 
-** Unix 19
+** Unit 19
 
 + alt - älter
 
@@ -131,3 +131,19 @@ nicht: in the present tense usually follows the finite verb. It may be preceded 
 + gern - lieber - am liebsten
 
 am + superlative is used as the adverb form of the corresponding superlative adjective
+
+** Unit 20
+
+- dürfen: expresses permission; ich darf, du darfst, ihr dürft, er/sie/es darf, etc. dürfen
+
+Sie dürfen hier rauchen.
+
+Darf ich Ihnen helfen.
+
+To say "you must not", use dürfen + nicht:
+
+Du darfst nicht rauchen.
+
+- wollen: ich/es/sie/es will, du willst, ihr wollt, wollen for the others
+
+- mögen/möchten: to like/would like; ich/es/sie/es mag, du magst  
