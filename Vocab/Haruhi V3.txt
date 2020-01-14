@@ -1,25 +1,40 @@
 * chap.1
 
-garb
-horsetail
-huddle
-tackle (in the sports sense)
-fawn (deer)
-shoot off
-bob (move up and down)
-off the mark
-beat-up
-flunky
-mound
-blithe
-flurry
-buckle (bend/collapse)
-field (catch or stop and throw a ball)
-inning
-roster (esp. of a sports team)
+1.14
+horsetail 1
+tackle (in the sports sense) 1
+fawn (deer) 1
+shoot off 1
+bob (move up and down) 1
+off the mark 1
+beat-up 1
+flunky 1
+mound 1
+blithe 1
+flurry 1
+buckle (bend/collapse) 1
+roster (esp. of a sports team) 1
+defending champion 1
+call (sports) 1
+umpire 1
+toughie 1
+time-out 1
+
+hiss
+jar
+barring (except)
+out of whack
+rack up
+swoop
+qualm
+genie
+bask
+trudge
+trot
+totter
+fluke
+sidearm
+
 leadoff
-defending champion
-call (sports)
-umpire
-toughie
-time-out
+inning
+field (catch or stop and throw a ball)
