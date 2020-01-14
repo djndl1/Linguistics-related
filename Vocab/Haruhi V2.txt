@@ -13,20 +13,17 @@ cuticle 4
 tread 4
 swatch 2
 
-1.8
-plankton 2
-grizzly bear 2
-poll 2
-put about 1
-monsoon 2
-savor 2
-con 3
-swipe 1
-reminisce 3
-berate 2
-felt-tip 2
-grace 2
-
+1.14
+plankton 3
+grizzly bear 3
+poll 3
+monsoon 3
+savor 5
+con 4
+swipe 2
+reminisce 4
+berate 3
+felt-tip 3
 
 unorthodox 4
 benevolent 3
@@ -53,22 +50,21 @@ get the hang of 5
 petrify 4
 ovation 2
 
-1.11
-pick at 1
-transfix 1
-unsettle 1
+1.14
+pick at 2
+transfix 2
+unsettle 2
 crummy 1
-connive 1
-lynch 1
-gremlin 1
-commodity 3
-normalcy 2
-spice up 1
-spew 1
-fret 1
-onlooker 1
-advert 1
-wry 3
+connive 2
+lynch 2
+gremlin 2
+commodity 4
+normalcy 4
+spice up 2
+spew 2
+onlooker 2
+advert 2
+wry 4
 
 rehash
 captivate 1
@@ -144,3 +140,5 @@ tick off 1
 midfielder 1
 offside
 endorphin
+put about 1
+fret 1
