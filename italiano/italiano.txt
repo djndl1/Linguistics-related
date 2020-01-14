@@ -47,27 +47,22 @@ corona (ring) 3
 unicum 3
 campagna 3
 
-
+1.14
 rappresentare 2
-elevato 2
-appartenente 4
-inglobare 2
-fuori da 1
-imponente 3
-godere 2
-appartenere 4
-ossia 1
-fascia 2
-mantenere 1
-regime 3
-stagione 5
-piuttosto 1
-eccesso 2
-benché 2
-piovoso 3
-gradevole 2
+elevato 3
+imponente 4
+godere 3
+appartenere 5
+ossia 2
+fascia 3
+mantenere 2
+eccesso 3
+piovoso 4
+gradevole 3
 netto 3
-soffrire 2
+soffrire 3
+
+
 scampolo 2
 ondata 2
 distare 5
@@ -942,3 +937,7 @@ omonimo 2
 idrografo 3
 rilievo 3 
 spento 1
+piuttosto 1
+benché 2
+inglobare 2
+regime 3
