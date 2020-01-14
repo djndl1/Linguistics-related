@@ -46,20 +46,18 @@ Ich bin am ... geboren. 2
 Mitte 4
 Ecke 2
 
-1.10
-nebenan 1
-gegenüber 1
-rund 1
-Fahrkarte 1
-Rundfahrt 1
-bestellen 1
-auf welchen Namen 1
-entfernen 1
-acht Minuten entfernt 2
-selbstverständlich
-Vormittag 3
-Nachmittag 3
-früh 4
+1.14
+nebenan 2
+gegenüber 2
+rund 2
+Fahrkarte 2
+Rundfahrt 2
+bestellen 2
+auf welchen Namen 2
+entfernen 2
+acht Minuten entfernt 3
+selbstverständlich 4
+früh 5
 
 1.11
 begleiten 1
@@ -99,3 +97,30 @@ nachher
 wie wär's mit ...
 anstrengend
 treiben (Sport)
+tatsächlich
+arbetslos
+etwa (zur Bestätigung)
+vorgestern
+na sowas
+gegen (about, around)
+zuerst
+nass
+aufstehen
+
+
+
+Inder(in)
+Irin/Ire
+Kanadier(in)
+Neuseeländer(in)
+Schotte/Schottin
+Schweizer(in)
+Südafrikaner
+Waliser(in)
+Politiker
+Rentner
+Vertreter
+Dolmetscher
+Büroangestellter
+Beamter
+Überfahrt

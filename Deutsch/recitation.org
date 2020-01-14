@@ -147,3 +147,27 @@ Du darfst nicht rauchen.
 - wollen: ich/es/sie/es will, du willst, ihr wollt, wollen for the others
 
 - mögen/möchten: to like/would like; ich/es/sie/es mag, du magst  
+
+** Unit 21
+
+Strong verbs form their past participle in most cases by adding ge- to the stem and -en at the end. The majority also have a stem vowel change.
+
+- finden -> gefunden
+
+- helfen -> geholfen
+
+- schreiben -> geschrieben
+
+- trinken - getrunken
+
+Mixed verbs have a stem change but add -t instead of -en.
+
+- bringen -> gebracht
+
+- denken -> gedacht
+
+- wissen -> gewusst
+
+with sein:
+
+- fahren, fliegen (geflogen), gehen, kommen, laufen (gelaufen), schwimmen (geschommen), reisen, bleiben (geblieben), sterben (gestorben), werden (geworden) 
