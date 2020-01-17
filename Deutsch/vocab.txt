@@ -59,55 +59,78 @@ acht Minuten entfernt 3
 selbstverständlich 4
 früh 5
 
-1.11
-begleiten 1
-Fahrgast 1
-Quadrat 1
-Einwohner 3
-Bezirk 1
-vornehm 1
-Tor 1
-klassizistisch 1
-Baustil 1
-Quadriga 1
-Wahrzeichen 1
-entlang 1
-berühmt 1
-Standbild 1
+1.15
+begleiten 2
+Fahrgast 2
+Quadrat 2
+Einwohner 4
+Bezirk 2
+vornehm 2
+Tor 2
+klassizistisch 2
+Baustil 2
+Quadriga 2
+Wahrzeichen 2
+entlang 2
+berühmt 2
+Standbild 2
 
-1.12
-um wieviel Uhr 1
-wie spät 1
-wieviel Uhr 1
-Meisterwerk 1
-Palais 1
+1.13
+um wieviel Uhr 2j
+wie spät 2
+wieviel Uhr 2
+Meisterwerk 2
+Palais 2
 herrlich 1
-genug 1
-müde 1
-Punkt (punctually, on the dot) 1
-Nuss 1
-übrigens 1
-übrig 1
-empfehlen 1
-köstlich 1
-Viertel nach/vor eins 2
+genug 2
+müde 2
+Punkt (punctually, on the dot) 2
+Nuss 2
+übrigens 2
+übrig 2
+empfehlen 2
+köstlich 2
+Viertel nach/vor eins 3
  
-nicht wahr
-nachher
-wie wär's mit ...
-anstrengend
-treiben (Sport)
-tatsächlich
-arbetslos
+1.15
+nicht wahr 1
+nachher 1
+wie wär's mit ... 1
+anstrengend 1
+treiben (Sport) 1
+tatsächlich 1
+arbeitslos 1
 etwa (zur Bestätigung)
-vorgestern
-na sowas
-gegen (about, around)
-zuerst
-nass
-aufstehen
+vorgestern 1
+na sowas 2
+gegen (about, around) 1
+zuerst 1
+nass 1
+aufstehen 0
 
-
+an (der Ostsee)
+aufwachsen
+Lebensjahr
+nicht ganz 
+bis zu meistens
+wieviel grad
+Dichter
+alleinstehend
+geschieden
+ehemalig
+Offizier
+kennenlerenen
+Das gibt's doch nicht.
+d.h.
+vor (ago)
+anschließend
+buchen
+lebhaft
+unterhalten
+feststellen
+gemeinsam
+eventuell
+schrecklich
 
 Inder(in)
 Irin/Ire

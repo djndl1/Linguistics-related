@@ -158,7 +158,7 @@ Strong verbs form their past participle in most cases by adding ge- to the stem 
 
 - schreiben -> geschrieben
 
-- trinken - getrunken
+- trinken -> getrunken
 
 Mixed verbs have a stem change but add -t instead of -en.
 
@@ -171,3 +171,13 @@ Mixed verbs have a stem change but add -t instead of -en.
 with sein:
 
 - fahren, fliegen (geflogen), gehen, kommen, laufen (gelaufen), schwimmen (geschommen), reisen, bleiben (geblieben), sterben (gestorben), werden (geworden) 
+
+** Unit 22
+
+Regularly -t. Ich/er/sie/es -te, ihr -tet
+
+sehen - sah, schreiben -> schrieb, gehen - ging, sein - war-
+
+A small number of verbs change their stem vowel and have the -t- infix like the regular verbs
+
+haben - hatt-, dürfen - durft-, können - konnt-, müssen - musst-, sollen - sollt-, wollen - wollt-, mögen - mocht-
