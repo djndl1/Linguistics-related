@@ -1,4 +1,4 @@
-** Unit 1
+* Unit 1
 
 il cinema/papà/problema
 
@@ -15,3 +15,66 @@ auto, radio, moto, foto, cinema do not change in the plural.
 dito - dita (however, in Latin it's digitus), centinaio - centinaia (centenarium), migliaio - migliaia, miglio - miglia, paio - paia (parium), uovo - uova
 
 Some nouns ending in -co/go change the sound of c and g in the plural. e.g. amico, medico, biologo
+
+* Unit 2
+
+| Singular       | Plural |
+|----------------+--------|
+| la, l'         | le     |
+| il             | i      |
+| lo (also before /j/, /ks/, l' (masc.) | gli    |
+
+| indefinite article |
+|--------------------|
+| un', una           |
+| un, uno            |
+
+- In italian, the definite article is used before a noun used in a general sense.
+
+Amo la musica rock.
+
+Il tempo vola.
+
+Le auto inquinano l'ambiente.
+
+- The definite article is used before a surname, except when addressing the person directly.
+
+La Signora Ubrani è gentile.
+
+Il Dottor Marchi è occupato.
+
+Some masculine titles, Signore, Professore, Dottore drop the final vowel when used 
+before the name of the person.
+
+- The definite article is always used with years.
+
+il 1990.
+
+- The definite article is normally used with names of countries and regions, 
+but the rule may be different when using a preposition.
+
+l'Inghilterra, la Toscana, in Italia.
+
+- In some cases, a definitive article is used in Italian where an indefinite article 
+or a possesive adjective is used in English.
+
+Antonio ha il naso lungo.
+
+Hai la patente.
+
+Avete l'ombrello?
+
+Ho il raffreddore.
+
+Dove passi le vacanze di solito.
+
+Di pomeriggio faccio il compito.
+
+Hai il biglietto?
+
+* Unit 3
+
+- Some adjectives ending in -a have -a for the singlular, -i for the masculine plural 
+and -e for the feminine plural:
+
+ottimista, pacifista, belga, entusiasta, idiota

@@ -1,25 +1,42 @@
-pomeriggio
-atleta
-collega
-batterista
-cantante
-cliente
-parente
-guida
-camion
-bosco
-gioco
-parco
-lago
-bugia
-camicia
-ciliegia
-farmacia
-doccia
-spiaggia
-mormorio
-virtù
+1.17
+pomeriggio 4
+atleta 1
+collega 2
+batterista 1
+cantante 1
+cliente 1
+parente 1
+guida 1
+camion 1
+gioco 1
 
+1.19
+bosco 1
+parco 1
+lago 1
+bugia 1
+camicia 1
+ciliegia 1
+farmacia 1
+doccia 1
+spiaggia 1
+mormorio 1
+
+
+virtù
+corto
+inquinare
+troppo
+hostess
+sciopero
+diffuso
+disoccupazione
+arbitro (referee)
+cameriera cameriere
+
+Inghilterra
+Portogallo
 Francia
 Spagna
 Belgio
+
