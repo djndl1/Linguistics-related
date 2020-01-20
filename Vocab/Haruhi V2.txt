@@ -1,17 +1,14 @@
-1.11
+1.20
 go about 3
-reassurance 5
-smack 4 (schmecken)
-impulsive 3
-lose one's nerve 2
-top off 3
-purse 5
-cap 2
+smack 5 (schmecken)
+impulsive 4
+lose one's nerve 3
+top off 4
+cap (end) 3
 drop off 2
-squeaky 4
-cuticle 4
-tread 4
-swatch 2
+squeaky 5
+cuticle 5
+tread 5
 
 1.14
 plankton 3
@@ -37,18 +34,15 @@ calf 2
 vent 2
 get over with 2
 
-1.11
-brim 2
-squirm 1
-pop quiz 2
-hideous 2
-back off 4
+1.20
+brim 3
+pop quiz 3
+hideous 3
+back off 5
 reproach 4
-out of the blue 5
-Rondo 3
-get the hang of 5
-petrify 4
-ovation 2
+Rondo 4
+petrify 5
+ovation 3
 
 1.14
 pick at 2
@@ -142,3 +136,5 @@ offside
 endorphin
 put about 1
 fret 1
+swatch 2
+squirm 1
