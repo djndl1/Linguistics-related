@@ -1,0 +1,45 @@
+* Pronunciation 
+
+- γ is nasalized before μ
+
+- mutes = stops
+
+- spirants: σ, Ϝ
+
+- a syllable is /long by nature/: contains a long vower or a diphthong; /long by position/: followed by two or more consonants.
+
+- consonant clusters such as πλ, πμ, πρ can be either the codas of the preceding syllable or divided into two parts.
+
+- lost Ϝ or σ can make a syllable long by position
+
+- A diphthong takes the breathing over its second vowel: αὐτός
+
+** Accents
+
+- acute: one of last three syllables.
+
+- circumflex: one of the last two.
+
+- the antepenult has only the acute if and only if the last syllable is not long by nature or ends in either ξ or ψ
+
+- an accented penult has the circumflex if long by nature while the ultima is short by nature
+
+- the ultima can has any accent.
+
+- final αι or οι are counted short when determining the accent, except in the optative, but long in metrical quantity.
+
+- verbs regularly have the /recessive/ accent.
+
+- /oxytone/: a word the acute on the last syllable. Oxytones change the acute to the grave before other words in the same sentence, except before enclitics, elided syllables or the interrogative pronoun τίς, τί.
+
+- /proclitics/: have no accent of their own and are attached to the following word, typically articles, prepositions and εἰ (if) and ὡς (as, that, to), οὐ/οὐκ/οὐχ (not). They are accented only when
+  + followed by an enclitic
+  + at the end of a sentence
+  + follow the words they modify
+
+- /enclitics/: loses its own accent and is pronounced as if it were a part of the preceding word. Typically the personal pronouns, the indefinite pronouns, the indefinite adverbs, 
+  the present indicative of εἰμί, φημί, the particles γέ, τέ, τοί, πέρ, νύ(ν), κέ(ν), θήν, ῥά, the pronominal suffix -δε, the local suffix (preposition) -δε and the adverbial suffix -θε
+  an enclitic does not lose its accent when
+  + dissylabic and follows a word which has the acute on the penult
+  + the preceding vowel is elided
+  + when it's emphasized.
