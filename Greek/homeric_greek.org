@@ -43,3 +43,100 @@
   + dissylabic and follows a word which has the acute on the penult
   + the preceding vowel is elided
   + when it's emphasized.
+
+* Morphology
+
+stem: often has more than one form, ordinarily derived from a root. The last letter of the stem is called the /stem characteristics/.
+
+** Declension
+
+*** Nouns
+
+The names of rivers, winds, and months are usually masculine; the names of countries, towns, trees and islands are usually feminine; most nouns denoting qualities and conditions are 
+A few nouns are used either a
+s masculine or feminine (of common gender), eg. παῖς.
+
+**** Accent
+
+Words monosyllabic in the nominative syngular when becoming dissyllabic by declension, regularly have the accent on the final syllable in all the dissyllabic forms of the genitive and dative of 
+all numbers, but keep the accent on the first syllable in all other cases. Oxytones takes the circumflex if long and accented in the genitive and dative of all numbers.
+
+**** Declensions
+
+****** the vowel declension (the first and the second)
+
+******* first 
+declension
+
+stems end in ᾱ, either masculine or feminine
+
+****** the consonant declension (the third declension)
+
+endingin a closed vowel (ι, υ) or a consonant
+
+******* third
+
+1. masculine and feminine stems (except those ending in ν, ρ, σ) add σ to the stem and make the usual euphonic changes, 
+  otherwise make no change except to lengthen the last vowel if short. Some ending in -ν(τ) might add σ to the stem and make the 
+  euphonic changes, loss of ν(τ) and lengthening of the preceding vowel.
+
+2. In neuters the nominative singular is usually the stem.
+
+3… the dative plural is either -εσσι or -σι (in which case the preceding consonants are assimilated or dropped)
+
+4. the accusative plural of M/F ending in -νς, giving -ας for consonant stems and -ῑς, -ῡς as the regular ending for the vowel stems
+
+5. the vocative singular is either the same as the nominative or else the same as the stem. 
+  Final consonants except ν, ρ, ς are dropped whenever they occur.
+
+6. Compensative lengthening does not take place when only one letter, as τ, δ, θ, σ, ν, is dropped.
+
+*** Verbs
+
+Greek verbs fall into two main classes -ω (thematic verbs), -μι (athematic verbs)
+For thematic verbs, -ο before -μ or -ν or in the optative mode. The personal endings 
+are attached directly to the stem of the verb. Many
+ verbs which are regularly thematic 
+may have athematic forms. In the subjunctive the thematic vowels are regularly long being
+ω or η.
+
+All futures; all presents and imperfects of -ω; all second aorists having the thematic vowel; all subjunctives
+are thematic. 
+
+*** Augmented Form
+
+A prefix at the beginning of the secondary tenses of the indicative to denote past time.
+
+1. Verbs beginning with a vowel formerly preceded by a lost constant may take the syllabic augment.
+  The augment always contracts with the first vowel of the stem if the initial σ has been lost.
+
+2. Verbs begging with ρ regularly double it after the augment. λ, μ, ν, σ may or may not.
+
+3.  The augment of compound verbs comes between the preposition and the verb.
+
+The augment is often omitted.
+
+*** -σ- 
+
+1. If the verb stem ends in a short vowel, all tenses regularly lengthen this.
+
+2. τ/δ/θ before the σ is assimilated
+
+3. For liquid and nasal verbs, the future is regularly formed by -εσο/ε with the loss of σ between vowels
+  In some cases, those verbs ending with a vowel lose this σ too if the final vowel is preceded by a 
+  nasal or liquid, called Attic features.
+
+4. For liquid and nasal verbs, the aorists are regularly formed by dropping the σ and lengthening the
+  stem vowel by compensation.
+
+*** Imperfect
+
+The imperfect is formed by adding the secondary endings to the augmented stem of the present.
+
+*** First Aorist
+
+Adding -σ(σ)α to the augmented verb stem followed by the personal endings of the second tenses
+
+*** Future
+
+-σ(σ)ο/ε followed by the personal endings of the primary tenses
