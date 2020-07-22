@@ -1,4 +1,5 @@
 assail 
+remit
 for-
 dispossess
 confer
@@ -6,3 +7,7 @@ apprize
 route (to put to disorderly flight or retreat)
 intervene (to come or occur between two times or events)
 prevail on
+wrest
+largess
+retinue
+payout
