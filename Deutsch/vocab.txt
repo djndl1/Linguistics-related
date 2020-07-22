@@ -1,42 +1,40 @@
-1.11
-verspäten 2
-morgens 4
-morgen 4
-reden 2
+7.21
+verspäten 4
+reden 3
 heftig 5
 Schreibwaren 4
 Stadtplan 2
 geschäft 2
 Oper 2
 Post 3
-Jugendherberge 3
+Jugendherberge 4
 Saal 2
-Rathaus 3
 Zelle (cell) 4
 Dom 3
-Freibad 3
-Hallenbad 4
+Freibad 4
+Hallenbad 5
 aufräumen 4
 abwaschen 4
 nachkommen 3
 ein/um/aus+steigen 3
-saubermachen 4
 vorbereiten 4
 vorstellen 4
 abholen 3
-leise 4
-eintreten (tread) 2
+leise 5
+eintreten (tread) 3
 
-1.13
-gerade (just) 2
-ruhig 2
+7.22
+gerade (just) 3 
+ruhig 3
 einzel 3
-Unterschrift 4
-Treppe 2
-Fahrstuhl 3
-wählen 4
+Unterschrift 5
+Treppe 3
+Fahrstuhl 4
+wählen 5
 rühren 2
-Speise 2
+Speise 3
+
+
 schmecken 2
 Bohne 2
 trocken 2
@@ -183,6 +181,10 @@ verstauchen
 verbinden
 Mühe
 Das ist lieb von dir.
+Wechselgeld
+Angestellte
+Ausweis
+Kasse
 
 Inder(in)
 Irin/Ire
