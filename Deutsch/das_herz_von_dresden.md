@@ -34,3 +34,30 @@
 
 - spenden: to donate, to contribute
 
+- liebevoll: loving, affectionate
+
+- zerstören
+
+> kurz vor Kriegsende zerstört worden
+
+- nämlich: denn, because, since
+
+> Das kennt sie nämlich schon.
+
+- begeistern
+
+> Sie is ganz begeistert von dem Projekt und von den Menschen, die Geld für die Kirche spenden.
+
+- mehrere: several
+
+> Seit mehreren Jahren arbeitet man nun an dem Wiederaufbau der Kirche.
+
+- erleben
+
+> Wenn mein Fred das noch erleben könnte
+
+- damals: at that time, then
+
+- Stolle, Rosine
+
+- beleidigen
