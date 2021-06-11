@@ -61,3 +61,36 @@
 - Stolle, Rosine
 
 - beleidigen
+
+## Subjunctive
+
+### Conjugation
+
+1. present: -e, -est, -e, -en, -et, -en, no umlaut
+
+2. imperfect stem (further umlaut for a o u) + -e, -est, -e, -en -et, -en
+
+> ich gäbe
+
+brennen, kennen, senden, nennen, rennen, wenden: no strong verb stem 
+
+### Usage
+
+1. Express uncertainty, speculation or doubt
+
+2. In Indirect speech
+
+> Sie sagte, er kenne meine Schwester
+
+3. Wenn: whenever
+
+> Wenn du kämest, wäre ich froh
+> Wenn du kämest, würde ich froh sein
+
+4. Wenn ... nur: if only
+
+> Wenn wir nur erfolgreich wären
+
+5. Wie: uncertainty
+
+> Er wunderte sich ,wie es ihr wohl ginge
