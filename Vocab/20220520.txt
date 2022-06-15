@@ -1,24 +1,26 @@
-﻿actionable 1
-glaring 1
+﻿actionable 2
+glaring 2
 awry 1
-oxymoron 1
-cognoscenti 1
-down the pike 1
+oxymoron 2
+cognoscenti 2
+down the pike 2
 revel 2
 fudge 1
-furnish 2
+furnish 3
 wager 1
 
-folly
-buggy
-clout
-tout
-anemic
-bum
-bread and butter
-malleable
-dupe
-functionary
+folly 1
+buggy 1
+clout 1
+tout 1
+anemic 1
+bum 1
+bread and butter 1
+malleable 1
+dupe 1
+functionary 1
+
+
 aberration
 grace note
 discretionary
