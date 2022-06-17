@@ -1,36 +1,37 @@
-﻿actionable 2
-glaring 2
-awry 1
-oxymoron 2
-cognoscenti 2
-down the pike 2
-revel 2
-fudge 1
-furnish 3
-wager 1
+﻿actionable 3
+glaring 3
+awry 2
+oxymoron 3
+cognoscenti 3
+down the pike 3
+revel 3
+fudge 2
+furnish 4
+wager 2
 
-folly 1
-buggy 1
-clout 1
-tout 1
-anemic 1
-bum 1
-bread and butter 1
-malleable 1
+folly 2
+buggy 2
+clout 2
+tout 2
+anemic 3
+bum 2
+bread and butter 2
+malleable 2
 dupe 1
-functionary 1
+functionary 2
 
 
-aberration
-grace note
-discretionary
-smoothbore
-trampoline
-moniker
-upshot
-surrogate
-poise
-doppelgänger
+aberration 1
+grace note 1
+discretionary 1
+smoothbore 3
+trampoline 1
+moniker 1
+upshot 1
+surrogate 3
+poise 1
+doppelgänger 1
+
 molten
 clinker
 tar
