@@ -20,28 +20,31 @@ malleable 2
 dupe 1
 functionary 2
 
-
-aberration 1
-grace note 1
-discretionary 1
-smoothbore 3
-trampoline 1
-moniker 1
+2022-07-03
+aberration 2
+grace note 2
+discretionary 2
+smoothbore 4
+trampoline 2
+moniker 2
 upshot 1
-surrogate 3
-poise 1
-doppelgänger 1
+surrogate 4
+poise 2
+doppelgänger 2
 
-molten
-clinker
-tar
-coke
-furnace
-hearth
-sinter
-declaim
-mileage
-hot take
+2022-07-03
+molten 1
+clinker 1
+tar 1
+coke 1
+furnace 1
+hearth 1
+sinter 3
+declaim 1
+mileage 2
+hot take 1
+
+
 bludgeon
 voluptuous
 wasp
@@ -52,3 +55,7 @@ accretion
 overlay
 slob
 ahoy
+take up on oneself
+apparel
+sod
+fissure
