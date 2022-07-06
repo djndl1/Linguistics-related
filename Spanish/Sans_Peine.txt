@@ -8,3 +8,15 @@ contento 1
 2022-07-05
 barato 1
 costar 1
+
+2022-07-06
+beber 1
+vacío 1
+taza 1
+vaso 1
+cafetería 1
+panadería 1
+franceso 1
+cerca de 1
+cerca 1
+pequeño 1
