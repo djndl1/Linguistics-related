@@ -44,16 +44,18 @@ declaim 2
 mileage 3
 hot take 2
 
-2022-07-04
-bludgeon 1
-voluptuous 2
-wasp 1
-hose 1
-savory 1
+2022-07-06
+bludgeon 2
+voluptuous 3
+wasp 2
+hose 2
+savory 2
 
-accretion
-overlay
-slob
+2022-07-06
+accretion 1
+overlay 1
+slob 1
+
 ahoy
 take up on oneself
 apparel
