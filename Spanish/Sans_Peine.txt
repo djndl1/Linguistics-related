@@ -1,22 +1,36 @@
 2022-07-04
-lejos 1
-mañana 1
-cansar,cansado 1
-citar,cita
+lejos 2
+mañana 2
+cansar,cansado 2
+citar,cita 1
 contento 1
 
 2022-07-05
-barato 1
-costar 1
+barato 2
+costar 2
 
 2022-07-06
-beber 1
-vacío 1
-taza 1
-vaso 1
-cafetería 1
-panadería 1
-franceso 1
-cerca de 1
-cerca 1
+beber 2
+vacío 2
+taza 2
+vaso 2
+cafetería 2
+panadería 2
+franceso 2
+cerca de 2
+cerca 2
 pequeño 1
+
+2022-07-07
+últimamente 1
+trabajar 1
+demasiado 1
+agitado (2) 1
+antes 1
+antes de 1
+médico 1
+viaje 1
+simpático 1
+telefonear 1
+claro que si/no 1
+inglaterra 1
