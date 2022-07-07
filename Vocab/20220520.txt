@@ -9,16 +9,17 @@ fudge 2
 furnish 4
 wager 2
 
-folly 2
-buggy 2
+2022-07-07
+folly 3
+buggy 3
 clout 2
-tout 2
-anemic 3
-bum 2
+tout 3
+anemic 4
+bum 3
 bread and butter 2
-malleable 2
+malleable 3
 dupe 1
-functionary 2
+functionary 3
 
 2022-07-03
 aberration 2
@@ -52,12 +53,14 @@ hose 2
 savory 2
 
 2022-07-06
-accretion 1
-overlay 1
-slob 1
+accretion 2
+overlay 2
+slob 2
 
-ahoy
-take up on oneself
-apparel
-sod
-fissure
+2022-07-07
+ahoy 1
+take up on oneself 3
+apparel 1
+victual 1
+sod 1
+fissure 1
