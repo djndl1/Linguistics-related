@@ -22,15 +22,24 @@ cerca 2
 pequeño 1
 
 2022-07-07
-últimamente 1
-trabajar 1
-demasiado 1
-agitado (2) 1
-antes 1
-antes de 1
-médico 1
-viaje 1
-simpático 1
-telefonear 1
+últimamente 2
+trabajar 2
+demasiado 2
+agitado (2) 2
+antes 2
+antes de 2
+médico 2
+viaje 2
+simpático 2
+telefonear 2
 claro que si/no 1
-inglaterra 1
+inglaterra 2
+
+2022-07-08
+hambre 1
+coche 1
+rojo 1
+partida (game) 1
+bonito 1
+perro 1
+ganar 1
