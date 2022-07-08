@@ -33,17 +33,17 @@ surrogate 4
 poise 2
 doppelgänger 2
 
-2022-07-04
-molten 2
-clinker 2
-tar 2
-coke 2
-furnace 2
-hearth 2
-sinter 4
-declaim 2
-mileage 3
-hot take 2
+2022-07-07
+molten 3
+clinker 3
+tar 3
+coke 3
+furnace 3
+hearth 3
+sinter 5
+declaim 3
+mileage 4
+hot take 3
 
 2022-07-06
 bludgeon 2
@@ -58,9 +58,9 @@ overlay 2
 slob 2
 
 2022-07-07
-ahoy 1
-take up on oneself 3
-apparel 1
-victual 1
-sod 1
-fissure 1
+ahoy 2
+take up on oneself 5
+apparel 2
+victual 2
+sod 2
+fissure 2
