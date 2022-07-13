@@ -1,10 +1,13 @@
-﻿actionable 3
+﻿2022-07-13
+actionable 4
 glaring 3
-awry 2
 oxymoron 3
-cognoscenti 3
+cognoscenti 4
+revel 4
+
+
 down the pike 3
-revel 3
+awry 2
 fudge 2
 furnish 4
 wager 2
@@ -45,17 +48,17 @@ declaim 3
 mileage 4
 hot take 3
 
-2022-07-06
-bludgeon 2
+2022-07-13
+bludgeon 3
 voluptuous 3
-wasp 2
-hose 2
-savory 2
+wasp 3
+hose 3
+savory 3
 
-2022-07-06
-accretion 2
-overlay 2
-slob 2
+2022-07-13
+accretion 3
+overlay 3
+slob 3
 
 2022-07-07
 ahoy 2
