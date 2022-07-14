@@ -5,12 +5,12 @@ oxymoron 3
 cognoscenti 4
 revel 4
 
-
+2022-07-14
 down the pike 3
-awry 2
-fudge 2
+awry 3
+fudge 3
 furnish 4
-wager 2
+wager 3
 
 2022-07-07
 folly 3
@@ -67,3 +67,5 @@ apparel 2
 victual 2
 sod 2
 fissure 2
+
+pull out of a hat
