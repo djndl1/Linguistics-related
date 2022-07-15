@@ -32,11 +32,11 @@ telefonear 3
 claro que si/no 3
 inglaterra 3
 
-2022-07-08
-hambre 1
-coche 1
-rojo 1
-partida (game) 1
-bonito 1
-perro 1
-ganar 1
+2022-07-15
+hambre 2
+coche 2
+rojo 2
+partida (game) 2
+bonito 2
+perro 2
+ganar 2
