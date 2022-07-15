@@ -1,17 +1,20 @@
 ﻿2022-07-14
-thwart 2
-godsend 1
-cliff notes 1
-heady 1
-orient 2
+thwart 3
+godsend 2
+cliff notes 2
+heady 2
+orient 3
 
-workout
-parallelism
-checkpoint
-hip
-mind you
+2022-07-15
+workout 1
+parallelism 1
+checkpoint 5
+hip 1
+mind you 2
 clutter
-ad hominem
+ad hominem 2
+
+
 helm
 postage
 go figure

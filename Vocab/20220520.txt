@@ -24,13 +24,13 @@ malleable 3
 dupe 1
 functionary 3
 
-2022-07-03
-aberration 2
-grace note 2
+2022-07-14
+aberration 3
+grace note 3
 discretionary 2
-smoothbore 4
-trampoline 2
-moniker 2
+smoothbore 5
+trampoline 3
+moniker 3
 upshot 1
 surrogate 4
 poise 2
@@ -69,3 +69,6 @@ sod 2
 fissure 2
 
 pull out of a hat
+make good on
+douse
+pyrite
