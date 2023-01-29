@@ -1,5 +1,8 @@
 2022-01-28
-venom 1
-gallbladder 1
-sinew 1
-shoal 1
+venom 2
+gallbladder 2
+sinew 3
+shoal 2
+
+2022-01-29
+transverse 1
