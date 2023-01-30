@@ -1,8 +1,12 @@
 2022-01-28
-venom 2
-gallbladder 2
-sinew 3
-shoal 2
+venom 3
+gallbladder 3
+sinew 4
+shoal 3
 
 2022-01-29
-transverse 1
+transverse 2
+
+2022-01-30
+wherry 1
+canton 3
