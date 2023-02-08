@@ -1,15 +1,7 @@
-2022-02-05
-venom 4
-gallbladder 4
-sinew 5
-shoal 4
-
-2022-02-05
-transverse 3
-
-2022-01-30
-wherry 1
+2022-02-08
+gallbladder 5
+shoal 5
+transverse 4
+wherry 2
 canton 3
-
-2022-02-05
-replete 1
+replete 2
