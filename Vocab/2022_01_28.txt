@@ -1,7 +1,5 @@
-2022-02-08
-gallbladder 5
-shoal 5
-transverse 4
-wherry 2
-canton 3
-replete 2
+2022-02-11
+transverse 5
+wherry 3
+canton 4
+replete 3
