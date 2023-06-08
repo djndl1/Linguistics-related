@@ -7,5 +7,8 @@
 *** DONE Collected
 SCHEDULED: <2023-06-07 三>
 
-*** TODO Collected
+*** DONE Collected
 SCHEDULED: <2023-06-08 四>
+
+*** TODO Collected
+SCHEDULED: <2023-06-09 五>
