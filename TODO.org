@@ -11,3 +11,19 @@ SCHEDULED: <2023-06-11 日 +1d>
 :END:
 - State "DONE"       from "TODO"       [2023-06-10 六 22:21]
 - State "DONE"       from "TODO"       [2023-06-10 六 21:59]
+
+* German
+
+** Lessions
+*** Colloquial German
+**** STRT Lektion 1
+
+** Daily Vocab
+*** TODO Learned
+SCHEDULED: <2023-06-12 一 +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-06-11 日 11:35]
+:END:
+
+- State "DONE"       from "TODO"       [2023-06-11 日 11:35]
+** Grammar
