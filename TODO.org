@@ -5,10 +5,11 @@
 ** Daily Vocab
 
 *** TODO Collected
-SCHEDULED: <2023-06-14 三 +1d>
+SCHEDULED: <2023-06-15 四 +1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-06-14 三 21:57]
+:LAST_REPEAT: [2023-06-15 四 23:23]
 :END:
+- State "DONE"       from "TODO"       [2023-06-15 四 23:23]
 - State "DONE"       from "TODO"       [2023-06-14 三 21:57]
 - State "DONE"       from "TODO"       [2023-06-13 二 22:41]
 - State "DONE"       from "TODO"       [2023-06-11 日 22:32]
