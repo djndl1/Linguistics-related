@@ -12,12 +12,14 @@ fudge 3
 furnish 4
 wager 3
 
-2022-07-07
-folly 3
-buggy 3
-clout 2
-tout 3
-anemic 4
+2022-07-21
+folly 4
+buggy 4
+clout 3
+tout 4
+anemic 5
+
+2022-07-14
 bum 3
 bread and butter 2
 malleable 3
@@ -60,15 +62,19 @@ accretion 3
 overlay 3
 slob 3
 
-2022-07-07
-ahoy 2
-take up on oneself 5
-apparel 2
-victual 2
-sod 2
-fissure 2
+2022-07-20
+ahoy 3
+apparel 3
+victual 3
+sod 3
+fissure 3
 
-pull out of a hat
-make good on
-douse
+2022-07-20
+pull out of a hat  1
+make good  1
+douse 1
+
+
 pyrite
+confer
+dole
