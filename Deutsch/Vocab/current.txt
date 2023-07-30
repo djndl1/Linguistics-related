@@ -1,7 +1,14 @@
 2023-06-11
-Kellner 1
-Kurfürst 1
-HauptBahnhof 1
-Zitrone 1
-zahlen, bezahlen 1
-Cent 1
+Kellner 2
+Kurfürst 2
+HauptBahnhof 2
+Zitrone 2
+zahlen, bezahlen 2
+Cent 2
+
+Kännchen
+Tasse
+bekommen
+Stück
+Sachertorte
+Stimmen (keep the change)
