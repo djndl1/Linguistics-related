@@ -8,12 +8,11 @@ godsend 5
 cliff notes 4
 heady 4
 
-2023-06-06
-workout 2
-parallelism 4
-hip 3
-mind you 4
-ad hominem 5
+2023-06-30
+workout 3
+parallelism 5
+hip 4
+mind you 5
 
 2023-06-05
 clutter 4
@@ -91,6 +90,15 @@ eschew 1
 denigrate 1
 
 
+2023-06-26
+duplicity 1
+stratagem 1
+lubricate, lubricant 1
+yesteryear 1
+baroque 1
+
+
+
 duplicity
 stratagem
 
@@ -137,3 +145,29 @@ failover
 look on
 instate
 obviate
+cruft
+labyrinthine
+McGuffin
+apropos
+repudiate
+destitution
+dividend (profit)
+precariat
+enviable
+aspirant
+performative
+signifier
+overlay
+metropole
+falter
+dynamic (interaction)
+caste
+millet
+cachet
+sheen
+eponymous
+parochial
+majoritarian
+emergent
+atavistic
+atrophy
