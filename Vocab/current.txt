@@ -34,18 +34,14 @@ philander 3
 smitten 3
 holdover 3
 
-2023-06-06
-compendium 2
-deaden 2
-profane 2
-device 2
-fence, fencing 2
-
-2023-06-07
-verbatim 2
-
-2023-06-18
-concern (business) 2
+2023-10-07
+compendium 3
+deaden 3
+profane 3
+device 3
+fence, fencing 3
+verbatim 3
+concern (business) 3
 
 2023-10-06
 waffle 2
@@ -80,34 +76,31 @@ relief 2
 type 2
 typesetting 2
 
-2023-06-18
-proviso 1
+2023-10-07
+proviso 2
 maroon 1
-symposium 1
+symposium 2
 eschew 1
-denigrate 1
+denigrate 2
 
 
-2023-06-26
-duplicity 1
-stratagem 1
-lubricate, lubricant 1
-yesteryear 1
-baroque 1
+2023-10-07
+duplicity 3
+stratagem 3
+not least 2
+manicure 2
+bigot 2
+lubricate, lubricant 2
+yesteryear 2
+baroque 2
 
-2023-10-06
-duplicity 1
-stratagem 1
-not least 1
-manicure 1
-bigot 1
+2023-10-07
+litmus 1
+enchilada 1
+smorgasbord 1
+gratuitous 1
+resilience 1
 
-
-litmus
-enchilada
-smorgasbord
-gratuitous
-resilience
 for the better
 grungy
 rogue
@@ -176,3 +169,4 @@ thingamajig
 malapropism
 gaffe
 sundae
+surefire
