@@ -50,19 +50,19 @@ overdue 2
 leeway, lee 2
 biome 1
 
-2023-06-11
-package 3
-deft 2
+2023-10-08
+package 4
+deft 3
 recess (place) 2
-cipher 2
+cipher 3
 
-2023-06-18
+2023-10-08
 guile 1
 wile 1
-slip (paper slip) 2
-roam 2
-reel 2
-run-of-the-mill 2
+slip (paper slip) 3
+roam 3
+reel 3
+run-of-the-mill 3
 
 2023-06-15
 register 2
@@ -94,18 +94,23 @@ lubricate, lubricant 2
 yesteryear 2
 baroque 2
 
-2023-10-07
-litmus 1
-enchilada 1
-smorgasbord 1
+2023-10-08
+litmus 2
+enchilada 2
+smörgåsbord 2
 gratuitous 1
-resilience 1
+resilience 2
 
-for the better
-grungy
-rogue
-bludgeon
-specious
+2023-10-08
+for the better 1
+grungy 1
+rogue 1
+bludgeon 1
+specious 1
+
+buffet
+alkali
+tortilla
 shim
 gyration
 cobbler
@@ -113,7 +118,6 @@ sucker
 cornucopia
 fuselage
 pickax
-
 forewarned is forearmed
 gyration
 pickax
