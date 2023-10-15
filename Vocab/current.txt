@@ -179,3 +179,7 @@ surefire
 stunt
 on/at the spur of the moment
 dabble
+aisle
+palatal
+guttural
+spirant
