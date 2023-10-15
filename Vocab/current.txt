@@ -12,27 +12,27 @@ workout 4
 hip 5
 mind you 5
 
-2023-06-05
-clutter 4
-helm 3
-postage 4
+2023-10-15
+clutter 5
+helm 4
+postage 5
 go figure 4
-anneal 4
+anneal 5
 
-2023-06-05
-publicity 3
+2023-10-15
+publicity 4
 ledger 2
 zenith 3
 nadir 3
-ad lib 3
-gravure 2
+ad lib 5
+gravure 3
 
-2023-06-13
-glamour photography 3
+2023-10-15
+glamour photography 4
 cad 3
 philander 3
-smitten 3
-holdover 3
+smitten 4
+holdover 4
 
 2023-10-07
 compendium 3
@@ -64,12 +64,12 @@ roam 3
 reel 3
 run-of-the-mill 3
 
-2023-06-15
+2023-10-15
 register 2
 white paper 2
-tangential 2
+tangential 3
 infatuate 2
-unreasoning 2
+unreasoning 3
 
 2023-06-18
 relief 2
@@ -108,11 +108,13 @@ rogue 1
 bludgeon 1
 specious 1
 
-buffet
-alkali
-tortilla
-shim
-gyration
+2023-10-15
+buffet 1
+alkali 1
+tortilla 1
+shim 1
+gyration 1
+
 cobbler
 sucker
 cornucopia
@@ -174,3 +176,6 @@ malapropism
 gaffe
 sundae
 surefire
+stunt
+on/at the spur of the moment
+dabble
