@@ -128,16 +128,19 @@ untoward 1
 cut-and-dried 2
 multiplicity 1
 
-remora
-stagger
-break the cycle
-taskmaster
-sigil
-frivolous
-grotesquery
-promulgate
-Salient
-failover
+2024-10-10
+remora 1
+stagger 1
+break the cycle 1
+taskmaster 1
+sigil 1
+frivolous 1
+grotesquery 1
+promulgate 1
+salient
+failover 3
+
+
 look on
 instate
 obviate
