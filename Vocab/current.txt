@@ -128,29 +128,30 @@ untoward 1
 cut-and-dried 2
 multiplicity 1
 
-2024-10-10
-remora 1
-stagger 1
-break the cycle 1
-taskmaster 1
-sigil 1
+2025-01-30
+remora 2
+stagger 2
+break the cycle 2
+taskmaster 2
+sigil 2
 frivolous 1
-grotesquery 1
-promulgate 1
-salient
-failover 3
+grotesquery 2
+promulgate 2
+salient 1
+failover 4
 
+2025-01-30
+look on 1
+instate 1
+obviate 1
+cruft 1
+labyrinthine 1
+McGuffin 1
+apropos 1
+repudiate 1
+destitution 1
+dividend (profit) 1
 
-look on
-instate
-obviate
-cruft
-labyrinthine
-McGuffin
-apropos
-repudiate
-destitution
-dividend (profit)
 precariat
 enviable
 aspirant
