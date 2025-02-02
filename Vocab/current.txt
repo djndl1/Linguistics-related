@@ -140,28 +140,32 @@ promulgate 2
 salient 1
 failover 4
 
-2025-01-30
-look on 1
-instate 1
-obviate 1
-cruft 1
-labyrinthine 1
-McGuffin 1
-apropos 1
+2025-02-02
+look on 2
+onlooker 1
+instate 2
+obviate 2
+cruft 2
+labyrinthine 2
+McGuffin 2
+apropos 2
 repudiate 1
-destitution 1
-dividend (profit) 1
+destitution 2
+dividend (profit) 2
 
-precariat
-enviable
-aspirant
-performative
-signifier
-overlay
-metropole
-falter
-dynamic (interaction)
-caste
+2025-02-02
+precariat 1
+enviable 1
+aspirant 1
+performative 1
+signifier 1
+overlay 1
+metropole 1
+falter 1
+dynamic (interaction) 1
+caste 1
+
+
 millet
 cachet
 sheen
