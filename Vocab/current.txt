@@ -165,17 +165,24 @@ falter 1
 dynamic (interaction) 1
 caste 1
 
+2024-02-04
+millet 1
+cachet (seal, stamp) 1
+sheen 1
+eponymous, epony 1
+parochial, parish (pastor) 1
+diocese 1
+majoritarian 1
+emergent 1
+atavistic, atavism (返祖)
+atrophy (萎缩） 1
+traction 1
 
-millet
-cachet
-sheen
-eponymous
-parochial
-majoritarian
-emergent
-atavistic
-atrophy
-traction
+congregation
+ordain
+denomination (sect)
+repute
+shear force
 lavish
 atrophy
 thingamajig
