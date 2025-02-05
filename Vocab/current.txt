@@ -153,44 +153,46 @@ repudiate 1
 destitution 2
 dividend (profit) 2
 
-2025-02-02
-precariat 1
-enviable 1
-aspirant 1
-performative 1
-signifier 1
-overlay 1
-metropole 1
-falter 1
-dynamic (interaction) 1
-caste 1
+2025-02-05
+precariat 2
+enviable 2
+aspirant 2
+performative 2
+signifier 2
+overlay 2
+metropole 2
+falter 2
+dynamic (interaction) 2
+caste 2
 
-2024-02-04
-millet 1
-cachet (seal, stamp) 1
+2024-02-05
+millet 2
+cachet (seal, stamp) 2
 sheen 1
-eponymous, epony 1
-parochial, parish (pastor) 1
-diocese 1
-majoritarian 1
-emergent 1
-atavistic, atavism (返祖)
-atrophy (萎缩） 1
-traction 1
+eponymous, epony 2
+parochial, parish (pastor) 2
+diocese 2
+majoritarian 2
+emergent 2
+atavistic, atavism (返祖) 2
+atrophy (萎缩） 2
+traction 2
 
-congregation
-ordain
-denomination (sect)
-repute
-shear force
-lavish
-atrophy
-thingamajig
-malapropism
-gaffe
-sundae
-surefire
-stunt
+2025-02-05
+congregation 1
+ordain 1
+denomination (sect) 1
+repute 1
+shear force 2
+lavish 1
+thingamajig 1
+malapropism 1
+gaffe 1
+faux pas 1
+sundae 1
+surefire 1
+stunt (n.) 1
+
 on/at the spur of the moment
 dabble
 aisle
@@ -218,3 +220,4 @@ time out
 slander
 eclair
 cross-fingering
+extant
