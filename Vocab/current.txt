@@ -193,17 +193,18 @@ sundae 1
 surefire 1
 stunt (n.) 1
 
-on/at the spur of the moment
-dabble
-aisle
-palatal
-guttural
-spirant
-kink
-Forlese
-proctor
-fret
-gratuitus
+2025-02-06
+on/at the spur of the moment 2
+dabble 1
+palatal 5
+guttural 1
+spirant 1
+kink 1
+forlese 1
+proctor 1
+fret 2
+gratuitous 1
+
 hopper
 trolley
 pulley
