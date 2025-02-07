@@ -205,16 +205,18 @@ proctor 1
 fret 2
 gratuitous 1
 
-hopper
-trolley
-pulley
-dismantle
-freight
-smelt
-pellet
-polymer
-linkage
-bound
+2025-02-07
+hopper 1
+trolley 1
+pulley 1
+dismantle 2
+freight 3
+smelt 1
+pellet 2
+polymer 2
+linkage 2
+bound 5
+
 make sense of
 sentry
 time out
